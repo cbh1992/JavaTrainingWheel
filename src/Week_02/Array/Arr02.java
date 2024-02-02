@@ -2,7 +2,7 @@ package Week_02.Array;
 
 import java.util.Arrays;
 
-public class Array02 {
+public class Arr02 {
     public static void main(String[] args) {
         //초기화
 

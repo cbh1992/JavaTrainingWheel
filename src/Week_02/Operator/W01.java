@@ -1,4 +1,4 @@
-package Week_02;
+package Week_02.Operator;
 
 public class W01 {
     //x+y=z
